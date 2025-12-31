@@ -39,6 +39,6 @@ Hi! I'm **Yomna Mohamed**, a Backend Developer from Egypt 🇪🇬
 
 ## <span style="color:#FF1493;">📊 GitHub Stats</span>
 
-![Yomna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yomnamohamed2005&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yomnamohamed2005&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yomnamohamed2005&layout=compact&theme=radical)
+![Yomna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yomnamohamed07&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yomnamohamed07&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yomnamohamed07&layout=compact&theme=radical)
